@@ -1,0 +1,21 @@
+integrations/wallets/jib_wallet.dart
+one_cash.dart
+jawali.dart
+class PaymentProvider {
+
+
+Future deposit(){
+
+}
+
+
+Future withdraw(){
+
+}
+
+
+Future checkBalance(){
+
+}
+
+}
