@@ -1,0 +1,9 @@
+/splash
+/login
+/otp
+/home
+/profile
+/settings
+/wallet
+/chat
+/games
