@@ -97,3 +97,42 @@ wallet_screen.dart
 │
 └── notifications/
     └── notification_screen.dart
+delivery/
+
+├── restaurants
+├── shops
+├── pharmacies
+├── parcels
+└── tracking
+اختيار مطعم
+
+اختيار طلب
+
+الدفع
+
+تتبع المندوب
+
+
+YS Market
+
+منتجات
+متاجر
+عروض
+سلة شراء
+طلبات
+تقييمات
+CREATE TABLE products(
+
+id INTEGER PRIMARY KEY,
+
+name TEXT,
+
+price DECIMAL,
+
+image TEXT,
+
+category TEXT
+
+);
+
+
