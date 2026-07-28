@@ -1,0 +1,6 @@
+openExternalApp()
+
+openWebFallback()
+
+restoreLastScreen()
+  
