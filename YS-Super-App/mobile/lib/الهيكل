@@ -1,0 +1,47 @@
+lib/
+│
+├── main.dart
+│
+├── app.dart
+│
+├── core/
+│   ├── theme/
+│   │   ├── app_colors.dart
+│   │   ├── app_theme.dart
+│   │
+│   ├── routes/
+│   │   └── app_routes.dart
+│   │
+│   ├── constants/
+│   │   └── app_constants.dart
+│
+├── features/
+│
+│── splash/
+│   └── splash_screen.dart
+│
+│── auth/
+│   ├── login_screen.dart
+│   ├── otp_screen.dart
+│   └── auth_service.dart
+│
+│── home/
+│   ├── home_screen.dart
+│   ├── widgets/
+│   │   ├── banner.dart
+│   │   ├── service_card.dart
+│   │   └── quick_actions.dart
+│
+│── profile/
+│   ├── profile_screen.dart
+│   └── profile_model.dart
+│
+│── settings/
+│   ├── settings_screen.dart
+│   └── settings_items.dart
+│
+│── search/
+│   └── smart_search.dart
+│
+└── notifications/
+    └── notification_screen.dart
