@@ -1,0 +1,32 @@
+wallet/
+
+POST /deposit
+
+POST /withdraw
+
+POST /transfer
+
+GET /balance
+
+
+payments/
+
+POST /pay-bill
+
+POST /recharge
+
+
+delivery/
+
+POST /order
+
+GET /tracking
+OTP لكل عملية مالية
+
+PIN للمحفظة
+
+تشفير البيانات
+
+سجل العمليات
+
+KYC للسحب الكبير
